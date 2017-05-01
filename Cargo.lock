@@ -1,0 +1,14 @@
+[root]
+name = "conspiracy"
+version = "0.1.0"
+dependencies = [
+ "noise-protocol 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "noise-protocol"
+version = "0.0.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum noise-protocol 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)" = "6e0e3bb2aac2da03c66afef6428b517c40323143557d3cee6aa2511f50890c27"

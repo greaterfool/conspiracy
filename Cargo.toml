@@ -1,0 +1,7 @@
+[package]
+name = "conspiracy"
+version = "0.1.0"
+authors = ["marmalade <summit@tutanota.de>"]
+
+[dependencies]
+noise-protocol = "0.0.3"
