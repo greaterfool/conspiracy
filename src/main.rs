@@ -1,3 +1,7 @@
+extern crate routing;
+mod route;
+
 fn main() {
-    println!("Hello, world!");
+    route::create_node();
+    route::new_client();
 }
