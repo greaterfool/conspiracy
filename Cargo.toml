@@ -5,3 +5,4 @@ authors = ["marmalade <summit@tutanota.de>"]
 
 [dependencies]
 noise-protocol = "0.0.3"
+routing = "0.30.0"
